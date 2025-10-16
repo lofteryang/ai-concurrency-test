@@ -26,7 +26,7 @@ yarn install
 
 项目已预配置了你的API信息：
 
-- **域名**: `cn-beijing.yuannengai.com`
+- **域名**: `openai.com`
 - **模型**: `deepseek-v3-1-250821`
 - **API密钥**: 已配置（请在`config.js`中查看）
 
